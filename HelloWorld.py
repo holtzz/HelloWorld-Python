@@ -1,4 +1,6 @@
 __author__ = 'holtzz'
 
-print "Hello, world!"
+def write(param):
+    print param
 
+write("Hello World!")
